@@ -52,8 +52,8 @@ To compile and run the demonstration and test files, you can use the provided `M
    ```sh
    make
    
-2. **Compile and Run the Tests**:
- Compile the Tests:
+2. **Compile and Run the Tests**
+
 ```sh
 make test
 Run the Tests:
@@ -62,7 +62,7 @@ Run the Tests:
 To remove all compiled files and clean the directory, use the following command:
 Clean files
 make clean.
-
+```
  Conclusion: 
 This assignment demonstrates a comprehensive implementation of a graph class in C++, showcasing various operator overloads and functionalities for graph manipulation and comparison. The provided Makefile simplifies the process of compiling and running the demonstration and tests, ensuring an efficient workflow.
 #After testing the Algorithms we found that te operators we defined had no influence no any of the Algorithms we implemented in the first assignment.

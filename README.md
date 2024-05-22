@@ -53,12 +53,13 @@ To compile and run the demonstration and test files, you can use the provided `M
    make
    
 2. **Compile and Run the Tests**
-
 ```sh
 make test
 Run the Tests:
 ./test.
+```
 3.**Clean the Compiled Files**:
+```sh
 To remove all compiled files and clean the directory, use the following command:
 Clean files
 make clean.

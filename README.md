@@ -1,6 +1,6 @@
 ## Implementing And Testing Operators on Graphs 
-ID:211407424
-abodezoabi2000@gmail.com 
+ID: 211407424
+Email: abodezoabi2000@gmail.com 
 
 ### Introduction
 
@@ -12,7 +12,7 @@ This assignment involves implementing a graph class in C++ with a variety of fea
 - **Graph.cpp**: Implementation file containing the definitions of the member functions.
 - **Algorithms.hpp**: Header file containing algorithm implementations from the first assignment.
 - **Algorithms.cpp**: Implementation file containing the definitions of the algorithms from the first assignment.
-- **demo.cpp**: A demonstration file showing how to use the Graph class sort of a main.
+- **demo.cpp**: A demonstration file showing how to use the Graph class, acting as a sort of main file.
 - **test.cpp**: A test file testing and verifying the correctness of the Graph class implementation.
 - **Makefile**: A makefile to compile and run the demo and test files.
 
@@ -29,8 +29,8 @@ This assignment involves implementing a graph class in C++ with a variety of fea
 
 - **Equality (`==`)**: Check if two graphs are equal.
 - **Inequality (`!=`)**: Check if two graphs are not equal.
-- **Greater than (`>`, `>=`)**: Compare two graphs based on the number of vertices, edges.
-- **Less than (`<`, `<=`)**: Compare two graphs based on the number of vertices.
+- **Greater than (`>`, `>=`)**: Compare two graphs based on the number of vertices and edges.
+- **Less than (`<`, `<=`)**: Compare two graphs based on the number of vertices and edges.
 
 #### Increment and Decrement Operators
 
@@ -51,13 +51,15 @@ To compile and run the demonstration and test files, you can use the provided `M
 1. **Compile and Run**:
    ```sh
    make
-   
+   ./demo
 Compile and Run the Tests
 Compile the Tests:
+
 sh
 Copy code
 make test
 Run the Tests:
+
 sh
 Copy code
 ./test
@@ -68,4 +70,5 @@ sh
 Copy code
 make clean
 This assignment demonstrates a comprehensive implementation of a graph class in C++, showcasing various operator overloads and functionalities for graph manipulation and comparison. The provided Makefile simplifies the process of compiling and running the demonstration and tests, ensuring an efficient workflow.
-#After testing the Algorithms we found that te operators we defined had no influence no any of the Algorithms we implemented in the first assignment.
+
+After testing the algorithms, we found that the operators we defined had no influence on any of the algorithms we implemented in the first assignment.

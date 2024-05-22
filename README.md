@@ -50,13 +50,13 @@ To compile and run the demonstration and test files, you can use the provided `M
    ```sh
    make
    ./demo
-Compile and Run the Tests:
+**Compile and Run the Tests**:
 
 sh
 Copy code
 make test
 ./test
-Clean the Compiled Files:
+**Clean the Compiled Files**:
 
 sh
 Copy code

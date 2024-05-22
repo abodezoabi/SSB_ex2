@@ -51,15 +51,14 @@ To compile and run the demonstration and test files, you can use the provided `M
    make
    ./demo
 **Compile and Run the Tests**:
- ```sh
+```sh
 make test
 ./test
+Clean the Compiled Files:
 
-**Clean the Compiled Files**:
- ```sh
+sh
 Copy code
 make clean
-
 This assignment demonstrates a comprehensive implementation of a graph class in C++, showcasing various operator overloads and functionalities for graph manipulation and comparison. The provided Makefile simplifies the process of compiling and running the demonstration and tests, ensuring an efficient workflow.
 
 After testing the algorithms, we found that the operators we defined had no influence on any of the algorithms we implemented in the first assignment.

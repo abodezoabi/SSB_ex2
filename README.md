@@ -46,7 +46,6 @@ This assignment involves implementing a graph class in C++ with a variety of fea
 
 To compile and run the demonstration and test files, you can use the provided `Makefile`. Below are the commands to compile, run, and clean the files:
 
-```sh
 1. **Compile and Run the Demonstration**:
    ```sh
    make

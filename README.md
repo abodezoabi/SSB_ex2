@@ -59,9 +59,9 @@ Run the Tests:
 ./test.
 ```
 3.**Clean the Compiled Files**:
-```sh
+
 To remove all compiled files and clean the directory, use the following command:
-Clean files
+```sh
 make clean.
 ```
  Conclusion: 
